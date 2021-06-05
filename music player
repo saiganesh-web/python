@@ -1,3 +1,5 @@
+#This is our first project using python,if you copy this code and run it in your system it shows an error.So,you need upload some images and mp3 files based on the following code.
+
 import os.path
 import threading
 import time
